@@ -7,7 +7,7 @@
 
 ## ダウンロード
 
-[Github](https://github.com/sogsan5/SyncSAV/releases "https://github.com/sogsan5/SyncSAV/releases")
+[Github](https://github.com/sogsan5/SyncSAV/releases/download/2.00/SyncSAV_2.00.zip "https://github.com/sogsan5/SyncSAV/releases/download/2.00/SyncSAV_2.00.zip")
 
 [SyncSAV Pro(DLsite)](https://www.dlsite.com/home/work/=/product_id/RJ378750.html "https://www.dlsite.com/home/work/=/product_id/RJ378750.html")
 
